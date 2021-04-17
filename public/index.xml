@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COAL Assignment</title>
+    <link>https://awaisaslam186.github.io/</link>
+    <description>Recent content on COAL Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Apr 2021 18:10:33 +0500</lastBuildDate><atom:link href="https://awaisaslam186.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Os Full Procedure(Click to view full procedure)</title>
+      <link>https://awaisaslam186.github.io/assignment/os/</link>
+      <pubDate>Fri, 16 Apr 2021 18:10:33 +0500</pubDate>
+      
+      <guid>https://awaisaslam186.github.io/assignment/os/</guid>
+      <description>Write Your Own 64-bit Operating System Kernel From ScratchYou can find full code on my Git repo https://github.com/awaisshah2280/myFirstOS.git.
+You can find code of this static site on repo https://github.com/awaisshah2280/mysite.git
+Prerequisites A text editor such as VS Code. Docker for creating our build-environment. Qemu for emulating our operating system.  Remember to add Qemu to the path so that you can access it from your command-line.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://awaisaslam186.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://awaisaslam186.github.io/about/</guid>
+      <description>Muhammad Awais ShahAdressZakaria Hostel NUST,\ H12 Islamabad
+Education 2019-2023 (expected) BS, Computer Science; NUST (Islamabad) 2017-2019 ICS; Daanish School Boys Hasilpur (Islambad) Minor: Awesomeology
+  ExperienceExecutive at Cyber Security
+ Graphic Designer  Technical ExperienceProgramming Languages: Java,C++,C#,Python
+Skill of Technologies: Android Development,Web development,Game development(Unity)
+Extra Section, Call it Whatever You Want  Human Languages:</description>
+    </item>
+    
+  </channel>
+</rss>
